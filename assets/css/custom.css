@@ -1,0 +1,14 @@
+.carousel-item {
+  height: 500px;
+}
+
+.carousel-item img {
+  background-size: contain;
+  height: 100%;
+}
+
+@media screen and (max-width: 600px) {
+  .carousel-item {
+    height: 300px;
+  }
+}/*# sourceMappingURL=custom.css.map */
